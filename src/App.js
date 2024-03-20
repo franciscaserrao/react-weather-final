@@ -9,13 +9,18 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           This project was coded by{" "}
-          <a href="https://github.com/franciscaserrao" target="_blank">
+          <a
+            href="https://github.com/franciscaserrao"
+            target="_blank"
+            rel="noreferrer"
+          >
             Francisca Serrão
           </a>
           , is open-sourced on{" "}
           <a
             href="https://github.com/franciscaserrao/react-weather-final"
             target="_blank"
+            rel="noreferrer"
           >
             GitHub
           </a>{" "}
@@ -23,6 +28,7 @@ export default function App() {
           <a
             href="https://master--nimble-biscuit-3ea091.netlify.app/"
             target="_blank"
+            rel="noreferrer"
           >
             Netlify
           </a>
